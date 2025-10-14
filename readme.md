@@ -12,4 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=achmadcastello&icon=9&color=5)](https://visitcount.itsvg.in)
 
-<a href="https://twitter.com/achmdcstllo?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @achmdcstllo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Follow me on X (Twitter)](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=achmdcstllo)
