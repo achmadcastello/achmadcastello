@@ -14,3 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achmadcastello&icon=9&color=5)](https://visitcount.itsvg.in)
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr">. <a href="https://t.co/PfVnq9IyD0">pic.twitter.com/PfVnq9IyD0</a></p>&mdash; Achmad (@achmdcstllo) <a href="https://twitter.com/achmdcstllo/status/1977456585640448191?ref_src=twsrc%5Etfw">October 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
