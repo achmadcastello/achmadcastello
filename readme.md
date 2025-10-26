@@ -13,4 +13,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=achmadcastello&icon=9&color=5)](https://visitcount.itsvg.in)
 
-![audiomack key="first" src="https://audiomack.com/embed/achmdcstllo/song/trustissue"]
